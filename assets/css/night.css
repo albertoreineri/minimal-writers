@@ -3,105 +3,161 @@
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 200;
-  src: url('../fonts/inconsolata/inconsolata-v31-latin-200.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/inconsolata/inconsolata-v31-latin-200.eot');
+  /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inconsolata/inconsolata-v31-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inconsolata/inconsolata-v31-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-200.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-200.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inconsolata/inconsolata-v31-latin-200.svg#Inconsolata') format('svg'); /* Legacy iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-200.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/inconsolata/inconsolata-v31-latin-200.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-200.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-200.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-200.svg#Inconsolata') format('svg');
+  /* Legacy iOS */
 }
+
 /* inconsolata-300 - latin */
 @font-face {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 300;
-  src: url('../fonts/inconsolata/inconsolata-v31-latin-300.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/inconsolata/inconsolata-v31-latin-300.eot');
+  /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inconsolata/inconsolata-v31-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inconsolata/inconsolata-v31-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inconsolata/inconsolata-v31-latin-300.svg#Inconsolata') format('svg'); /* Legacy iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-300.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/inconsolata/inconsolata-v31-latin-300.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-300.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-300.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-300.svg#Inconsolata') format('svg');
+  /* Legacy iOS */
 }
+
 /* inconsolata-regular - latin */
 @font-face {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/inconsolata/inconsolata-v31-latin-regular.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/inconsolata/inconsolata-v31-latin-regular.eot');
+  /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inconsolata/inconsolata-v31-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inconsolata/inconsolata-v31-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-regular.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inconsolata/inconsolata-v31-latin-regular.svg#Inconsolata') format('svg'); /* Legacy iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-regular.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/inconsolata/inconsolata-v31-latin-regular.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-regular.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-regular.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-regular.svg#Inconsolata') format('svg');
+  /* Legacy iOS */
 }
+
 /* inconsolata-500 - latin */
 @font-face {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 500;
-  src: url('../fonts/inconsolata/inconsolata-v31-latin-500.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/inconsolata/inconsolata-v31-latin-500.eot');
+  /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inconsolata/inconsolata-v31-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inconsolata/inconsolata-v31-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-500.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inconsolata/inconsolata-v31-latin-500.svg#Inconsolata') format('svg'); /* Legacy iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-500.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/inconsolata/inconsolata-v31-latin-500.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-500.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-500.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-500.svg#Inconsolata') format('svg');
+  /* Legacy iOS */
 }
+
 /* inconsolata-600 - latin */
 @font-face {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 600;
-  src: url('../fonts/inconsolata/inconsolata-v31-latin-600.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/inconsolata/inconsolata-v31-latin-600.eot');
+  /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inconsolata/inconsolata-v31-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inconsolata/inconsolata-v31-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inconsolata/inconsolata-v31-latin-600.svg#Inconsolata') format('svg'); /* Legacy iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-600.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/inconsolata/inconsolata-v31-latin-600.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-600.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-600.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-600.svg#Inconsolata') format('svg');
+  /* Legacy iOS */
 }
+
 /* inconsolata-700 - latin */
 @font-face {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 700;
-  src: url('../fonts/inconsolata/inconsolata-v31-latin-700.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/inconsolata/inconsolata-v31-latin-700.eot');
+  /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inconsolata/inconsolata-v31-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inconsolata/inconsolata-v31-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inconsolata/inconsolata-v31-latin-700.svg#Inconsolata') format('svg'); /* Legacy iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-700.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/inconsolata/inconsolata-v31-latin-700.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-700.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-700.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-700.svg#Inconsolata') format('svg');
+  /* Legacy iOS */
 }
+
 /* inconsolata-800 - latin */
 @font-face {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 800;
-  src: url('../fonts/inconsolata/inconsolata-v31-latin-800.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/inconsolata/inconsolata-v31-latin-800.eot');
+  /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inconsolata/inconsolata-v31-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inconsolata/inconsolata-v31-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-800.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inconsolata/inconsolata-v31-latin-800.svg#Inconsolata') format('svg'); /* Legacy iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-800.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/inconsolata/inconsolata-v31-latin-800.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-800.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-800.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-800.svg#Inconsolata') format('svg');
+  /* Legacy iOS */
 }
+
 /* inconsolata-900 - latin */
 @font-face {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 900;
-  src: url('../fonts/inconsolata/inconsolata-v31-latin-900.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/inconsolata/inconsolata-v31-latin-900.eot');
+  /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inconsolata/inconsolata-v31-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inconsolata/inconsolata-v31-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-900.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inconsolata/inconsolata-v31-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inconsolata/inconsolata-v31-latin-900.svg#Inconsolata') format('svg'); /* Legacy iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-900.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/inconsolata/inconsolata-v31-latin-900.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-900.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/inconsolata/inconsolata-v31-latin-900.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/inconsolata/inconsolata-v31-latin-900.svg#Inconsolata') format('svg');
+  /* Legacy iOS */
 }
+
 html,
 body {
   font-family: 'Inconsolata', monospace;
@@ -132,6 +188,11 @@ a {
 
 a:hover {
   color: #d8d8d8;
+}
+
+img {
+  max-width: 100%;
+  height: auto
 }
 
 .container {
@@ -177,8 +238,8 @@ a:hover {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   width: 100%;
 }
 
@@ -190,8 +251,8 @@ a:hover {
 .articolo h3 {
   margin-top: 15px;
   -webkit-box-flex: 1;
-      -ms-flex: 1 1;
-          flex: 1 1;
+  -ms-flex: 1 1;
+  flex: 1 1;
 }
 
 .testo-articolo h3 {
@@ -232,7 +293,7 @@ a:hover {
 .btn:focus {
   outline: none;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
 }
 
 .form-control {
@@ -243,7 +304,7 @@ a:hover {
   outline: none !important;
   border: 1px solid red;
   -webkit-box-shadow: 0 0 10px #719ECE;
-          box-shadow: 0 0 10px #719ECE;
+  box-shadow: 0 0 10px #719ECE;
 }
 
 .active {
@@ -297,9 +358,11 @@ pre {
     text-align: right;
     margin-top: 20px;
   }
+
   .home-title {
     position: relative;
   }
+
   .home-vedi-tutti {
     float: none;
   }
@@ -425,7 +488,8 @@ header a i:hover {
   border: 1px solid #6c757d;
 }
 
-.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus {
   background-color: #00afe5;
   color: black;
 }
@@ -449,4 +513,14 @@ header a i:hover {
   list-style: none;
   text-align: center;
 }
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  z-index: 999999999;
+  cursor: pointer;
+}
+
 /*# sourceMappingURL=night.css.map */

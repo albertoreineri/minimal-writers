@@ -10,7 +10,7 @@
 
 <body <?php body_class(); ?>>
     <?php wp_body_open() ?>
-    <main id="swup" class="transition-fade">
+    <main id="" class="">
         <header class="mt-2">
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container">

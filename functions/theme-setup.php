@@ -1,4 +1,4 @@
-<?php 
+<?php
 function writers_setup()
 {
 	// Menus
@@ -32,6 +32,17 @@ function add_last_nav_item($items)
 		$darkModeIcon = '<i class="fa-solid fa-moon" id="switch-icon"></i>';
 	}
 
+	if (!isset($_COOKIE['theme'])) {
+		setcookie('theme', 'day');
+	}
+	$theme = $_COOKIE['theme'];
+	if ($theme === 'night') {
+		$darkModeIcon = '<i class="fa-solid fa-sun" id="switch-icon"></i>';
+	} else {
+		$darkModeIcon = '<i class="fa-solid fa-moon" id="switch-icon"></i>';
+
+	}
+
 	return $items .= '<li class="nav-item" style="margin-right:10px">
 	<a href="/?s" title="Cerca - Alby DEV">
 		<i class="fa-solid fa-magnifying-glass" style="margin-top:11px;height:25px; margin-left:10px"></i>
@@ -43,4 +54,3 @@ function add_last_nav_item($items)
 </li>';
 }
 add_filter('wp_nav_menu_items', 'add_last_nav_item');
-?>
