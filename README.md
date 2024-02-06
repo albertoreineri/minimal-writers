@@ -11,11 +11,11 @@ Minimal Writer is a minimalistic WordPress Theme developed for bloggers and writ
 
 ## Installation
 
-Download this repo and upload the zip file as a new theme in WordPress»themes»Add New Theme
+Download this repo and upload the zip file as a new theme in "*WordPress » themes » Add New Theme*"
 
 ## Customization
 
-Go to Appearence»Customize to set Theme Accent Color
+Go to "*Appearence » Customize*" to set Theme Accent Color
 
 ## Contributing
 
