@@ -2,6 +2,13 @@
 
 Minimal Writer is a minimalistic WordPress Theme developed for bloggers and writers
 
+# Preview
+
+![](https://raw.githubusercontent.com/albertoreineri/minimal-writers/main/assets/img/day.png)
+
+![](https://raw.githubusercontent.com/albertoreineri/minimal-writers/main/assets/img/night.png)
+
+
 ## Installation
 
 Download this repo and upload the zip file as a new theme in WordPress»themes»Add New Theme
